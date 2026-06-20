@@ -20,6 +20,6 @@ The demonstrations are organized into two sign language production configuration
 
 #### RWTH-PHOENIX-Weather-2014T
 
-![](demo/T2S/phoenix/t2s_phoenix_1.gif)
+![](Videos/T2S/phoenix/t2s_phoenix_1.gif)
 
 ### Gloss-to-Sign (G2S) Examples
