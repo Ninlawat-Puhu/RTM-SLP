@@ -62,11 +62,19 @@ The demonstrations are organized into two sign language production configuration
 
 
 ### Comparison with Different k Times
-We also provide qualitative comparisons under different recursive refinement steps ($k$ times)
+Here we also provide qualitative comparisons under different recursive refinement steps ($k$ times)
 
 ![](Videos/comparison/t2s_k_steps_phonix_3cols.gif)
 
 ![](Videos/comparison/t2s_k_steps_phonix_6cols.gif)
+
+### Comparison to Progressive Transformer
+Here we compare our full approach to the progressive transformer that use Mean Square Error (MSE). We also provide qualitative comparisons under different recursive refinement steps ($k$ times).
+
+![](Videos/comparison/t2s_comparison_rtm_pg_1.gif)
+
+![](Videos/comparison/t2s_comparison_rtm_pg_2.gif)
+
 
 
 
