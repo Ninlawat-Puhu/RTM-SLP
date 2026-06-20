@@ -69,7 +69,7 @@ Here we also provide qualitative comparisons under different recursive refinemen
 ![](Videos/comparison/t2s_k_steps_phonix_6cols.gif)
 
 ### Comparison to Progressive Transformer
-Here we compare our full approach to the progressive transformer that use Mean Square Error (MSE). We apply both an RTM loss and recursive module.
+We compare our full approach with the Progressive Transformer baseline optimized with Mean Squared Error (MSE) loss. Our method integrates RTM loss and recursive keypoint reasoning to mitigate over-smoothed motions and improve temporal consistency.
 
 ![](Videos/comparison/t2s_comparison_rtm_pg_1.gif)
 
