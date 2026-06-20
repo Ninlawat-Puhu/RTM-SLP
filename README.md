@@ -34,4 +34,12 @@ The demonstrations are organized into two sign language production configuration
 
 ![](Videos/T2S/mdgs/t2s_mdgs_3.gif)
 
+#### How2Sign
+
+![](Videos/T2S/How2Sign/t2s_h2s_1.gif)
+
+![](Videos/T2S/How2Sign/t2s_h2s_2.gif)
+
+![](Videos/T2S/How2Sign/t2s_h2s_3.gif)
+
 ### Gloss-to-Sign (G2S) Examples
