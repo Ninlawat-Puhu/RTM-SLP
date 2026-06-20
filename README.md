@@ -85,4 +85,15 @@ We compare the generated sign pose sequences with and without the proposed LLM-b
 
 ### Failure Case Examples
 
+![](Videos/failure_cases/g2s_mdgs_failcase_1.gif)
+
+![](Videos/failure_cases/g2s_mdgs_failcase_2.gif)
+
+![](Videos/failure_cases/g2s_mdgs_failcase_3.gif)
+
+![](Videos/failure_cases/g2s_mdgs_failcase_4.gif)
+
+![](Videos/failure_cases/g2s_mdgs_failcase_5.gif)
+
+![](Videos/failure_cases/g2s_mdgs_failcase_6.gif)
 
