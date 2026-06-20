@@ -93,7 +93,7 @@ We compare the generated sign pose sequences with and without the proposed LLM-b
 
 ![](Videos/failure_cases/g2s_phoenix_failcase_2.gif)
 
-![](Videos/failure_cases/g2s_mdgs_failcase_1.gif)
+![](Videos/failure_cases/t2s_h2s_failcase_1.gif)
 
-![](Videos/failure_cases/g2s_mdgs_failcase_2.gif)
+![](Videos/failure_cases/t2s_h2s_failcase_2.gif)
 
