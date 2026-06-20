@@ -6,7 +6,10 @@ Sign Language Production (SLP) aims to generate sign language representations fr
 ![Architecture](assets/architecture.png)
 
 ## Demo
-We provide qualitative examples to demonstrate the effectiveness of the proposed method in generating expressive sign pose sequences. The visualization compares the generated poses from the baseline autoregressive model and our proposed framework against the ground-truth sign sequences.
+We provide qualitative demonstrations of the generated sign pose sequences produced by the proposed framework. Each visualization contains two synchronized skeleton sequences for direct comparison between the generated output and the reference motion.
+
+- **Left skeleton:** Ground-truth pose sequence extracted from the original sign language video.
+- **Right skeleton:** Generated pose sequence predicted by our proposed method.
 
 The demonstrations are organized into two sign language production configuration:
 
