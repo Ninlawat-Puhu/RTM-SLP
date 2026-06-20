@@ -13,3 +13,4 @@ The demonstrations are organized into two sign language production configuration
 - **Text-to-Sign (T2S):** generating sign pose sequences directly from spoken language inputs.
 - **Gloss-to-Sign (G2S):** generating sign pose sequences from gloss-level sign representations with intensity information.
 
+### Text-to-Sign (T2S)
