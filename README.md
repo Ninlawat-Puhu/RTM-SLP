@@ -26,4 +26,6 @@ The demonstrations are organized into two sign language production configuration
 
 ![](Videos/T2S/phoenix/t2s_phoenix_3.gif)
 
+#### Meine DGS Annotated
+
 ### Gloss-to-Sign (G2S) Examples
