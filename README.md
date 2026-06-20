@@ -43,3 +43,19 @@ The demonstrations are organized into two sign language production configuration
 ![](Videos/T2S/How2Sign/t2s_h2s_3.gif)
 
 ### Gloss-to-Sign (G2S) Examples
+
+### RWTH-PHOENIX-Weather-2014T
+
+![](Videos/G2S/phoenix/g2s_phoenix_1.gif)
+
+![](Videos/G2S/phoenix/g2s_phoenix_2.gif)
+
+![](Videos/G2S/phoenix/g2s_phoenix_3.gif)
+
+### Meine DGS Annotated
+
+![](Videos/G2S/mdgs/g2s_mdgs_1.gif)
+
+![](Videos/G2S/mdgs/g2s_mdgs_2.gif)
+
+![](Videos/G2S/mdgs/g2s_mdgs_3.gif)
