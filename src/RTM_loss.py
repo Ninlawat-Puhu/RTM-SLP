@@ -49,9 +49,7 @@ class RtmLoss(nn.Module):
 
         self.mag_rho = torch.abs(self.rho)
 
-        self.scale_ratio = torch.zeros_like(std_pred)
-        std_pred_valid = std_pred > self.eps
-        self.scale_ratio[std_pred_valid] = std_tgt[std_pred_valid] / std_pred[std_pred_valid]
+        self.scale_ratio = std_tgt / (std_pred + self.eps)
 
         self.factor = (self.scale_ratio * self.mag_rho).reshape(-1, 1, 1)
 
