@@ -81,7 +81,7 @@ We compare the generated sign pose sequences with and without the proposed LLM-b
 
 ![](Videos/comparison/g2s_phoenix_comparison_prosody_1.gif)
 
-![](Videos/comparison/g2s_phoenix_comparison_prosody_1.gif)
+![](Videos/comparison/g2s_phoenix_comparison_prosody_2.gif)
 
 
 
