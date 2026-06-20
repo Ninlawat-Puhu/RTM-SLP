@@ -64,6 +64,9 @@ The demonstrations are organized into two sign language production configuration
 ### Comparison with Different k Times
 We also provide qualitative comparisons under different recursive refinement steps ($k$ times)
 
-![](Videos/comparison/t2s_k_steps_phonix.gif)
+![](Videos/comparison/t2s_k_steps_phonix_3cols.gif)
+
+![](Videos/comparison/t2s_k_steps_phonix_6cols.gif)
+
 
 
