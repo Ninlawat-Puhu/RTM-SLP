@@ -76,5 +76,12 @@ We compare our full approach with the Progressive Transformer baseline optimized
 ![](Videos/comparison/t2s_comparison_rtm_pg_2.gif)
 
 
+### Effect of Prosody Conditioning
+We compare the generated sign pose sequences with and without the proposed LLM-based prosody conditioning module.
+
+![](Videos/comparison/g2s_phoenix_comparison_prosody_1.gif)
+
+![](Videos/comparison/g2s_phoenix_comparison_prosody_1.gif)
+
 
 
