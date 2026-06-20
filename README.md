@@ -59,3 +59,11 @@ The demonstrations are organized into two sign language production configuration
 ![](Videos/G2S/mdgs/g2s_mdgs_2.gif)
 
 ![](Videos/G2S/mdgs/g2s_mdgs_3.gif)
+
+
+### Comparison with Different k Times
+We also provide qualitative comparisons under different recursive refinement steps ($k$ times)
+
+![](Videos/comparison/t2s_k_steps_phonix.gif)
+
+
