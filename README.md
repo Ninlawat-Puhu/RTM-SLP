@@ -84,7 +84,7 @@ We compare the generated sign pose sequences with and without the proposed LLM-b
 ![](Videos/comparison/g2s_phoenix_comparison_prosody_2.gif)
 
 ### Failure Case Examples
-The overall datasets (RWTH-PHOENIX-Weather-2014T, Meine DGS Annotated, and How2Sign) exhibit similar failure cases. Specifically, the generated facial poses do not always align well with the ground-truth poses, especially when signers perform significant face or body movements. Moreover, some fine-grained details of hand poses are not accurately reproduced.
+Across all datasets (RWTH-PHOENIX-Weather-2014T, Meine DGS Annotated, and How2Sign), we observe similar challenging failure patterns. In particular, the generated facial poses may not perfectly align with the ground truth when signers exhibit large head or body movements. Additionally, highly detailed hand configurations can still be challenging in cases involving rapid or complex hand motions.
 
 ![](Videos/failure_cases/g2s_mdgs_failcase_1.gif)
 
