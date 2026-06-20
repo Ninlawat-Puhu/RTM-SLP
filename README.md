@@ -18,7 +18,7 @@ The demonstrations are organized into two sign language production configuration
 
 ### Text-to-Sign (T2S) Examples
 
-#### RWTH-PHOENIX-Weather-2014T
+### RWTH-PHOENIX-Weather-2014T
 
 ![](Videos/T2S/phoenix/t2s_phoenix_1.gif)
 
@@ -26,7 +26,7 @@ The demonstrations are organized into two sign language production configuration
 
 ![](Videos/T2S/phoenix/t2s_phoenix_3.gif)
 
-#### Meine DGS Annotated
+### Meine DGS Annotated
 
 ![](Videos/T2S/mdgs/t2s_mdgs_1.gif)
 
@@ -34,7 +34,7 @@ The demonstrations are organized into two sign language production configuration
 
 ![](Videos/T2S/mdgs/t2s_mdgs_3.gif)
 
-#### How2Sign
+### How2Sign
 
 ![](Videos/T2S/How2Sign/t2s_h2s_1.gif)
 
