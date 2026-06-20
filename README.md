@@ -28,8 +28,6 @@ The demonstrations are organized into two sign language production configuration
 
 ### Meine DGS Annotated
 
-![](Videos/T2S/mdgs/t2s_mdgs_1.gif)
-
 ![](Videos/T2S/mdgs/t2s_mdgs_2.gif)
 
 ![](Videos/T2S/mdgs/t2s_mdgs_3.gif)
