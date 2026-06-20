@@ -8,7 +8,7 @@ Sign Language Production (SLP) aims to generate sign language representations fr
 ## Demo
 We provide qualitative examples to demonstrate the effectiveness of the proposed method in generating expressive sign pose sequences. The visualization compares the generated poses from the baseline autoregressive model and our proposed framework against the ground-truth sign sequences. The results highlight the ability of the proposed RTM-based optimization to reduce over-smoothed motions and preserve temporal variations.
 
-The demonstrations are organized into two sign language production settings:
+The demonstrations are organized into two sign language production configuration:
 
 - **Text-to-Sign (T2S):** generating sign pose sequences directly from spoken language inputs.
 - **Gloss-to-Sign (G2S):** generating sign pose sequences from gloss-level sign representations with intensity information.
