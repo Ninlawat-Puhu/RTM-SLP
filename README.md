@@ -84,6 +84,7 @@ We compare the generated sign pose sequences with and without the proposed LLM-b
 ![](Videos/comparison/g2s_phoenix_comparison_prosody_2.gif)
 
 ### Failure Case Examples
+The overall dataset (RWTH-PHOENIX-Weather-2014T, Meine DGS Annotated, How2Sign) has similar fail case. Our model generate 
 
 ![](Videos/failure_cases/g2s_mdgs_failcase_1.gif)
 
