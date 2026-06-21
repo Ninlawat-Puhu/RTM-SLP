@@ -62,7 +62,7 @@ The demonstrations are organized into two sign language production configuration
 
 
 ### Comparison with Different k Times
-Here we also provide qualitative comparisons under different recursive reasoning refinement steps ($k$ times)
+Here we also provide qualitative comparisons under different recursive self-reasoning refinement steps ($k$ times)
 
 ![](Videos/comparison/t2s_k_steps_phonix_3cols.gif)
 
